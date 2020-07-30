@@ -1,4 +1,4 @@
-# This repository contains the computational scripts used in the manuscript "**Selection and thermostability at G-quadruplex loci in the human genome**" by Guiblet et al.
+This repository contains the computational scripts used in the manuscript "**Selection and thermostability at G-quadruplex loci in the human genome**" by Guiblet et al.
 
 - Supplementary Code 1 contains the scripts used for the analysis of density and stability.
 
